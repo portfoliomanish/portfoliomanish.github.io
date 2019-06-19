@@ -1,0 +1,86 @@
+
+body {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background: #f0f0f0;
+    overflow-x: hidden;
+}
+.header{
+    background-image: url(header.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+}
+.profile{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.pr{
+    margin-top: 80px;
+}
+.top{
+    background-image: url(Sample-Image.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+#resume-a{
+    text-decoration: none;
+    color: #077901;
+}
+.bt{
+    height: 40px;
+    width: 150px;
+    background: transparent;
+    border: 2px solid #077901;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border-radius: 4px;
+}
+.bt:hover{
+    width: 160px;
+    height: 50px;
+}
+.left{
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("Sample-Portrait.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    color: #fff;
+}
+.right{
+    background-color: #0D0D0D;
+    height: 500px;
+    color: #fff;
+}
+#wrk{
+    margin-top: 160px;;
+    text-align: center;
+    font-size: 60px;
+}
+#list8 {  }
+#list8 ul { list-style: url(imageedit_19_9704051762.png); }
+#list8 ul li { font-family:Georgia,serif,Times; font-size:20px; }
+#list8 ul li span { display:block;  background-color:#0D0D0D; border-left:5px solid #222; border-right:5px solid #222; padding-left:10px;
+  text-decoration:none; color:#bfe1f1; }
+#list8 ul li span:hover {  -moz-transform:rotate(-5deg); -moz-box-shadow:10px 10px 20px #000000;
+  -webkit-transform:rotate(-5deg); -webkit-box-shadow:10px 10px 20px #000000;
+  transform:rotate(-5deg); box-shadow:10px 10px 20px #000000; }
